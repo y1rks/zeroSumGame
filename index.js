@@ -10,7 +10,7 @@ function setButtonState() {
         }
     }
 
-    if (onCount >= 12) {
+    if (onCount >= 15) {
         for (let i = 0; i < buttons.length; i++) {
             buttons[i].checked = false;
         }
