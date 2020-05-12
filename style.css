@@ -25,7 +25,7 @@ body {
 }
 
 .switch__label:nth-last-child(1) {
-  margin-right: 0;
+  margin-right: 0px;
 }
 
 .switch__content {
